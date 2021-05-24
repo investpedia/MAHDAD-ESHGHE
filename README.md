@@ -17,7 +17,7 @@ mahdad.punishing('scamers') # returns 'NAFAS KESH!'
 
 | Plugin | README |
 | ------ | ------ |
-| Cardano | [ADA][PlDb] |
+| Cardano | [ADA] |
 
 > Note: `MAHDAD` punishing all scammers.
 
